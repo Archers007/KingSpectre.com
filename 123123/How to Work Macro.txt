@@ -1,0 +1,28 @@
+If you need help about script you can check our instruction.
+
+For GHUB
+https://csmacro.com/how-to-install-valorant-g-hub/
+
+For LGS
+https://csmacro.com/how-to-install-valorant-lgs/
+
+----------------------------------------------------------------------------------------------------------------
+How to use macro in Game ,
+
+1920x1080 Settings
+
+Weapon Selection ,
+
+Capslock ON = Phantom                      (Button should be off (-------- - Numlock - ScroolLock)
+Capslock OFF = Vandal                      (Button should be off (Capslock - Numlock - ScroolLock)
+Capslock ON + Scroollock ON = Spectre      (Button should be off (-------- - Numlock - --------- )
+Scroollock ON = Bulldog                    (Button should be off (Capslock - Numlock - ----------) 
+
+
+After you choose weapon settings ,
+
+You can activate and deactivate MOUSE3 , (Middle button of your mouse)
+
+Thanks
+
+CSMACRO.com
